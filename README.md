@@ -17,7 +17,7 @@
                     -	Đánh giá chỉ số BMI.<br/>
       4.Thông báo nhắc nhở: Cho phép người dùng đặt thời gian nhắc nhở để luyện tập, thông báo khi đến thời gian. Nhắc nhở khi không tập đủ số ngày trong kế hoạch đưa ra trong kế hoạch luyện tập.<br/>
       5.Các bài tập: Người dùng sẽ tập theo từng bước mà app đưa ra và có thời gian đếm ngược đối với một số bước. Sẽ có thời gian để chuẩn bị giữa các bước trong một bài tập. Đối       với từng bước hoàn thành hệ thống sẽ lưu lại số Kcal đã tiêu hao.<br/>
- ** Hướng dẫn sử dụng:**<br/>
+ **Hướng dẫn sử dụng:**<br/>
   
  
 
