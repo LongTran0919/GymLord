@@ -1,5 +1,5 @@
 Đề tài môn Công nghệ phần mền
-Tên đề tài: App Tập thể hình
+**Tên đề tài: App Tập thể hình**
 Nhóm thực hiện:
   18110151-Trần Hoàng Long
   18110178-Trần Gia Phúc
