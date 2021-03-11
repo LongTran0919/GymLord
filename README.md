@@ -1,4 +1,4 @@
-***Đề tài môn Công nghệ phần mền ***<br/>
+**Đề tài môn Công nghệ phần mền** <br/>
 **Tên đề tài:** App Tập thể hình<br/>
 **Nhóm thực hiện:**<br/>
   18110151-Trần Hoàng Long<br/>
